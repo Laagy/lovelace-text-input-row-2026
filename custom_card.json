@@ -1,8 +1,8 @@
 {
-    "lovelace-text-input-row": {
+    "lovelace-text-input-row-2026": {
       "version": "0.0.12",
-      "remote_location": "https://raw.githubusercontent.com/laagy/lovelace-text-input-row/master/lovelace-text-input-row.js",
-      "visit_repo": "https://github.com/laagy/lovelace-text-input-row/",
-      "changelog": "https://github.com/laagy/lovelace-text-input-row/"
+      "remote_location": "https://raw.githubusercontent.com/laagy/lovelace-text-input-row/master/lovelace-text-input-row-2026.js",
+      "visit_repo": "https://github.com/laagy/lovelace-text-input-row-2026/",
+      "changelog": "https://github.com/laagy/lovelace-text-input-row-2026/"
     }
 }
